@@ -1,0 +1,156 @@
+{
+  "spelers": [
+    {
+      "id": 1,
+      "naam": "Jan Jansen",
+      "positie": "Aanvaller",
+      "rugnummer": 9,
+      "nationaliteit": "Nederlands"
+    },
+    {
+      "id": 2,
+      "naam": "Piet Pieters",
+      "positie": "Middenvelder",
+      "rugnummer": 10,
+      "nationaliteit": "Nederlands"
+    },
+    {
+      "id": 3,
+      "naam": "Kees Keizer",
+      "positie": "Verdediger",
+      "rugnummer": 5,
+      "nationaliteit": "Belgisch"
+    },
+    {
+      "id": 4,
+      "naam": "Tom Tomassen",
+      "positie": "Doelman",
+      "rugnummer": 1,
+      "nationaliteit": "Belgisch"
+    },
+    {
+      "id": 5,
+      "naam": "Henk Hendriks",
+      "positie": "Middenvelder",
+      "rugnummer": 8,
+      "nationaliteit": "Duits"
+    },
+    {
+      "id": 6,
+      "naam": "Frans Fransen",
+      "positie": "Aanvaller",
+      "rugnummer": 11,
+      "nationaliteit": "Duits"
+    },
+    {
+      "id": 7,
+      "naam": "Leo Linders",
+      "positie": "Verdediger",
+      "rugnummer": 3,
+      "nationaliteit": "Frans"
+    },
+    {
+      "id": 8,
+      "naam": "Bart Barten",
+      "positie": "Middenvelder",
+      "rugnummer": 7,
+      "nationaliteit": "Spaans"
+    },
+    {
+      "id": 9,
+      "naam": "Chris Christoff",
+      "positie": "Aanvaller",
+      "rugnummer": 14,
+      "nationaliteit": "Italiaans"
+    },
+    {
+      "id": 10,
+      "naam": "Wim Willemsen",
+      "positie": "Doelman",
+      "rugnummer": 12,
+      "nationaliteit": "Nederlands"
+    }
+  ],
+  "matches": [
+    {
+      "id": 1,
+      "datum": "2024-01-15",
+      "tegenstander": "FC Tegenpartij",
+      "competitie": "Eredivisie",
+      "resultaat": "Winst",
+      "score": "3-1"
+    },
+    {
+      "id": 2,
+      "datum": "2024-01-22",
+      "tegenstander": "Sportvereniging XYZ",
+      "competitie": "Eredivisie",
+      "resultaat": "Gelijk",
+      "score": "2-2"
+    },
+    {
+      "id": 3,
+      "datum": "2024-01-29",
+      "tegenstander": "Kampioenen FC",
+      "competitie": "Beker",
+      "resultaat": "Verlies",
+      "score": "0-1"
+    },
+    {
+      "id": 4,
+      "datum": "2024-02-05",
+      "tegenstander": "Rivalen United",
+      "competitie": "Eredivisie",
+      "resultaat": "Winst",
+      "score": "4-0"
+    },
+    {
+      "id": 5,
+      "datum": "2024-02-12",
+      "tegenstander": "FC Vooruitgang",
+      "competitie": "Eredivisie",
+      "resultaat": "Winst",
+      "score": "2-1"
+    },
+    {
+      "id": 6,
+      "datum": "2024-02-19",
+      "tegenstander": "Stadsgenoten",
+      "competitie": "Eredivisie",
+      "resultaat": "Gelijk",
+      "score": "1-1"
+    },
+    {
+      "id": 7,
+      "datum": "2024-02-26",
+      "tegenstander": "Internationals",
+      "competitie": "Vriendschappelijk",
+      "resultaat": "Winst",
+      "score": "3-2"
+    },
+    {
+      "id": 8,
+      "datum": "2024-03-05",
+      "tegenstander": "Regionaal FC",
+      "competitie": "Eredivisie",
+      "resultaat": "Verlies",
+      "score": "1-2"
+    },
+    {
+      "id": 9,
+      "datum": "2024-03-12",
+      "tegenstander": "Club de Beste",
+      "competitie": "Eredivisie",
+      "resultaat": "Winst",
+      "score": "4-3"
+    },
+    {
+      "id": 10,
+      "datum": "2024-03-19",
+      "tegenstander": "Jongeren FC",
+      "competitie": "Eredivisie",
+      "resultaat": "Gelijk",
+      "score": "0-0"
+    }
+  ]
+}
